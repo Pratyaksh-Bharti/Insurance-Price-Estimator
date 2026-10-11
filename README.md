@@ -2,6 +2,8 @@
 
 A machine learning project that estimates medical insurance charges using Support Vector Regression (SVR) and a Streamlit web application.
 
+Link of Web app :- https://insurance-price-estimator-ygffsmyqlg6pdcqdgr6rx6.streamlit.app/
+
 ## Project Overview
 
 This project uses demographic and lifestyle-related information to predict medical insurance charges based on a US insurance dataset.
